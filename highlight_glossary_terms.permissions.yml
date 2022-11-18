@@ -1,0 +1,4 @@
+administer highlight glossary terms configuration:
+  title: 'Administer Highlight Glossary Terms configuration'
+  description: 'Lets users to administer Highlight Glossary Terms configuration.'
+  restrict access: TRUE

@@ -1,0 +1,14 @@
+highlight_glossary_terms.admin_config_highlight_glossary_terms:
+  title: 'Highlight Glossary Terms'
+  route_name: highlight_glossary_terms.highlight_glossary_terms_settings_form
+  parent: system.admin_config
+  description: 'Select Glossary vocabulary and highlight classes.'
+  weight: 50
+
+highlight_glossary_terms.highlight_glossary_terms_settings_form:
+  title: 'Settings'
+  route_name: highlight_glossary_terms.highlight_glossary_terms_settings_form
+  description: 'Select Glossary vocabulary and highlight classes. '
+  parent: highlight_glossary_terms.admin_config_highlight_glossary_terms
+  weight: 10
+

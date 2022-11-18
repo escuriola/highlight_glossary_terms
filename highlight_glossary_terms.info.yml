@@ -1,0 +1,6 @@
+name: Highlight Glossary Terms
+type: module
+description: Highlight occurrences of terms from a selected vocabulary in nodes.
+package: Highlight Glossary Terms
+php: 8.1
+core_version_requirement: ^9.2

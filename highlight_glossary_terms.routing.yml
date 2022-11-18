@@ -1,0 +1,9 @@
+highlight_glossary_terms.highlight_glossary_terms_settings_form:
+  path: '/admin/config/highlight-glossary-terms/settings'
+  defaults:
+    _form: '\Drupal\highlight_glossary_terms\Form\HighlightGlossaryTermsSettingsForm'
+    _title: 'Highlight glossary terms settings'
+  requirements:
+    _permission: 'administer highlight glossary terms configuration'
+  options:
+    _admin_route: TRUE
